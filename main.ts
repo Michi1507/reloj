@@ -1,5 +1,5 @@
-let segundos = 55
 let minutos = 0
+let segundos = 55
 let horas = 3
 basic.forever(function () {
     segundos += 1
