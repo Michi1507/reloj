@@ -1,6 +1,6 @@
+let segundos = 0
 let minutos = 0
-let segundos = 55
-let horas = 3
+let horas = 0
 basic.forever(function () {
     segundos += 1
     if (segundos > 59) {
